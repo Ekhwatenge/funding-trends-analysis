@@ -1,6 +1,6 @@
 # Funding Trends Analysis
 
-This repository contains the code and data to analyze incoming funding trends for various projects, focusing on source organizations, countries, and project types. The analysis was conducted using R, and the results aim to provide insights into global contributions and sectoral funding allocations for the year 2024.
+This repository contains the code and data to analyze incoming funding trends for various projects, focusing on source organizations, countries, and project types. The analysis was conducted using R, and the results provides insights into global contributions and sectoral funding allocations for the year 2024.
 
 ## Table of Contents
 - [Data](#data)

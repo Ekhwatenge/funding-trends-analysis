@@ -1,6 +1,6 @@
 # Funding Trends Analysis
 
-This repository contains the code and data to analyze incoming funding trends for various projects, focusing on source organizations, countries, and project types. The analysis was conducted using R, and the results provides insights into global contributions and sectoral funding allocations for the year 2024.
+In this repository we share the code and data to analyze incoming funding trends for various projects, focusing on source organizations, countries, and project types. The analysis was conducted using R, and the results provides insights into global contributions and sectoral funding allocations for the year 2024.
 
 ## Table of Contents
 - [Data](#data)
@@ -19,13 +19,13 @@ The data used for this analysis is stored in the `data/` folder. The primary dat
 - Decision and reporting dates
 
 ## Analysis
-The R script for performing the analysis is in `analysis/funding_analysis.R`. Key analyses include:
-- **Total Funding by Year:** Overview of funding trends by year.
-- **Top Funders:** Identification of top contributing organizations.
-- **Funding by Country:** Breakdown of contributions by source countries.
-- **Sectoral Analysis:** Distribution of funding across various project sectors.
-- **Currency Conversion Analysis:** Comparisons between original currencies and their USD equivalents.
-- **Decision Date Analysis:** the timing between funding decisions and reports.
+The R script for performing the analysis is in `analysis/funding_analysis.R`. Analyses include:
+- **Total Funding by Year-** Overview of funding trends by year.
+- **Top Funders-** Identification of top contributing organizations.
+- **Funding by Country-** Breakdown of contributions by source countries.
+- **Sectoral Analysis-** Distribution of funding across various project sectors.
+- **Currency Conversion Analysis-** Comparisons between original currencies and their USD equivalents.
+- **Decision Date Analysis-** the timing between funding decisions and reports.
 
 ## Visualizations
 The analysis generates several visualizations, including:

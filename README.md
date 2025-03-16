@@ -19,7 +19,7 @@ The data used for this analysis is stored in the `data/` folder. The primary dat
 - Decision and reporting dates
 
 ## Analysis
-The R script for performing the analysis is in `analysis/funding_analysis.R`. Analyses include:
+The R script for performing the analysis is in `analysis/funding_analysis.R`. Analyses includes the following
 - **Total Funding by Year-** Overview of funding trends by year.
 - **Top Funders-** Identification of top contributing organizations.
 - **Funding by Country-** Breakdown of contributions by source countries.
